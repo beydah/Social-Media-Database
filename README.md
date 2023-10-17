@@ -4,7 +4,7 @@
 
 This project has been created and developed by Beydah Sağlam. To contact Beydah Sağlam, please send an email to [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com).
 
-To provide free support to the developer, you can follow the author on <a href="https://github.com/beydah" target="_blank">github/beydah</a>.
+To provide free support to the developer, you can follow the author on <a href="https://github.com/beydah" target="blank">github/beydah</a>.
 
 To support the project for free, you can star the project.
 

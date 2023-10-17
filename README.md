@@ -8,12 +8,12 @@
 - [Usage Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#usage-information)
 - [Open Source Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#open-source-information)
 
-- [Database Features](#database-features)
-- [Table Features](#table-features)
-- [Procedure Features](#procedure-features)
+- [Database Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#database-features)
+- [Table Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#table-features)
+- [Procedure Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#procedure-features)
 
-- [Download Information](#download-information)
-- [Installation Information](#installation-information)
+- [Download Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#download-information)
+- [Installation Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information)
 
 - [License](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE)
 
@@ -29,4 +29,4 @@ To support the project for free, you can star the project.
 
 This database project is created to accelerate the developers of social media software projects and contribute to the general community.
 
-Additionally, there is a version of this project designed for students. Fake data allowing students to query has been added to the student version. For more information, you can check the [Download Information](#download-information) section.
+Additionally, there is a version of this project designed for students. Fake data allowing students to query has been added to the student version. For more information, you can check the [Download Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#download-information) section.

@@ -29,4 +29,4 @@ Additionally, there is a version of this project designed for students. Fake dat
 - [Download Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#download-information)
 - [Installation Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information)
 
-- [License](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE)
+- <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE" target="_blank">License</a>

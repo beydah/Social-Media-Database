@@ -1,65 +1,65 @@
-# Hazır Şablon Sosyal Medya Veritabanı (Ücretsiz)
+# Social Media Database Template (Free)
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    Anasayfaya dönmek için buraya tıklayın
+    Click here to go back to the homepage
   </a>
 </div>
 
-## Kullanım Bilgisi
+## Usage Information
 
-Bu veritabanı projesinden ilham alabilir, kendi veritabanlarınızı oluşturabilir veya bu veritabanını eğitim amaçlarıyla kullanabilirsiniz. Proje, kullanımı ücretsizdir. Ancak daha fazla kullanım bilgisi için [Lisans](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE) başlığına göz atmanızı öneririz.
+You can take inspiration from this database project, create your own databases, or use this database for educational purposes. The project is free to use. However, for more usage information, we recommend checking the [License](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE) section.
 
-Lisans bilgilerini inceleyerek, bu veritabanını nasıl kullanabileceğiniz ve sınırlamalar hakkında daha fazla bilgi edinebilirsiniz.
+By reviewing the license information, you can learn more about how to use this database and its limitations.
 
-## Açık Kaynak Bilgisi
+## Open Source Information
 
-Bu veritabanı projesinde geliştirilmeyi bekleyen birçok alan bulunmaktadır.
+There are several areas in this database project that are open for development.
 
-### Görevler
+### Tasks
 
-- Veritabanı'nın yedekleme ve kendini güncelleme gibi işlemleri dahil edilmemiştir ve bu konuda geliştirilmeye açık bir projedir. Veritabanı hakkında daha fazla bilgi edinmek için [Veritabanı Özellikleri](#veritabanı-özellikleri) başlığını inceleyebilirsiniz.
+- Operations like database backup and self-updating are not included, and this is a project open for improvement in this regard. You can learn more about the database by checking the [Database Features](#database-features) section.
 
-- Varolan tabloların veri türleri vb. optimize edilmeyi bekleyen ve var olan tablolara yeni alanlar eklenmesi gereken yerler bulunmaktadır. Varolan tablolar haricinde daha fazla tabloya ihtiyaç bulunmaktadır. Tablolar hakkında daha fazla bilgi edinmek için [Tablo Özellikleri](#tablo-özellikleri) başlığını inceleyebilirsiniz.
+- Existing table data types, etc., need optimization and additional fields need to be added to existing tables. Besides existing tables, more tables are needed. You can learn more about the tables by checking the [Table Features](#table-features) section.
 
-- Varolan Stored Procedures (Saklanan Prosedürler)de geliştirmeler ve iyileştirmeler yapılabilir. Yeni prosedürler eklenebilir. Detaylı bilgi için [Prosedür Özellikleri](#prosedür-özellikleri) başlığını inceleyebilirsiniz.
+- Improvements and enhancements can be made to existing Stored Procedures. New procedures can be added. For detailed information, check the [Procedure Features](#procedure-features) section.
 
-- Sürekli yapılan işler için fonksiyon ve tetikleyiciler (triggers) veritabanına dahil edilebilir.
+- Functions and triggers can be included in the database for tasks performed regularly.
 
-- Veritabanında bulunan güvenlik açıkları giderilebilir.
+- Security vulnerabilities in the database can be addressed.
 
-Tüm bu geliştirmelere bu proje açıktır ve açık kaynak desteğe ihtiyaç duymaktadır. Eğer geliştirmeye hazırsanız, projeyi şimdi forklayabilirsiniz.
+All these improvements are open for this project and require open-source support. If you are ready to contribute to the development, you can fork the project now.
 
-### Fork Adımları
+### Forking Steps
 
-Proje forklandıktan sonra yapmanız gereken adımlar şunlardır:
+After forking the project, here are the steps you need to follow:
 
-1. Projeyi kendi GitHub hesabınıza forklayın. Fork butonu projenin sağ üst köşesinde bulunur. Forkladığınız projeyi bilgisayarınıza klonlayın:
-
-```cmd
-git clone https://github.com/sizin-kullanici-adi/proje-adı.git
-```
-
-2. Değişikliklerinizi yapın ve yeni özellikler ekleyin Değişiklikleri commit edin:
+1. Fork the project to your GitHub account. The fork button is located in the top right corner of the project. Clone the forked project to your computer:
 
 ```cmd
-git commit -m "Yaptığınız değişikliklerin açıklaması"
+git clone https://github.com/beydah/Social-Media-Database-Template.git
 ```
 
-3. Yaptığınız değişiklikleri kendi forkladığınız projenize pushlayın:
+2. Make your changes and add new features. Commit your changes:
 
 ```cmd
-git push origin ana-dal
+git commit -m "Description of your changes"
 ```
 
-4. GitHub hesabınızda forkladığınız projeye gidin ve "Pull Request" açın.
+3. Push your changes to your forked project:
 
-5. Değişikliklerinizi ve eklediğiniz özellikleri açıklayan bir açıklama yazın ve "Pull Request"i oluşturun.
+```cmd
+git push origin main-branch
+```
 
-Yaptığınız "Pull Request" incelendikten sonra değişiklikler ana projeye birleştirilecektir.
+4. Go to the project you forked in your GitHub account and open a "Pull Request."
+
+5. Write a description explaining your changes and added features and create the "Pull Request."
+
+After your "Pull Request" is reviewed, the changes will be merged into the main project.
 
 <div style="text-align: center;">
-  <a href="#hazır-şablon-sosyal-medya-veritabanı-ücretsiz">
-    Yukarı çıkmak için buraya tıklayın
+  <a href="#ready-made-social-media-database-template-free">
+    Click here to go back up
   </a>
 </div>

@@ -18,11 +18,11 @@ There are several areas in this database project that are open for development.
 
 ### Tasks
 
-- Operations like database backup and self-updating are not included, and this is a project open for improvement in this regard. You can learn more about the database by checking the [Database Features](#database-features) section.
+- Operations like database backup and self-updating are not included, and this is a project open for improvement in this regard. You can learn more about the database by checking the [Database Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#database-features) section.
 
-- Existing table data types, etc., need optimization and additional fields need to be added to existing tables. Besides existing tables, more tables are needed. You can learn more about the tables by checking the [Table Features](#table-features) section.
+- Existing table data types, etc., need optimization and additional fields need to be added to existing tables. Besides existing tables, more tables are needed. You can learn more about the tables by checking the [Table Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#table-features) section.
 
-- Improvements and enhancements can be made to existing Stored Procedures. New procedures can be added. For detailed information, check the [Procedure Features](#procedure-features) section.
+- Improvements and enhancements can be made to existing Stored Procedures. New procedures can be added. For detailed information, check the [Procedure Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#procedure-features) section.
 
 - Functions and triggers can be included in the database for tasks performed regularly.
 
@@ -59,7 +59,7 @@ git push origin main-branch
 After your "Pull Request" is reviewed, the changes will be merged into the main project.
 
 <div style="text-align: center;">
-  <a href="#ready-made-social-media-database-template-free">
+  <a href="#social-media-database-template-free">
     Click here to go back up
   </a>
 </div>

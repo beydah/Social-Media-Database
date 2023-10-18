@@ -34,6 +34,8 @@ EduSocialDB enriches the current database by adding 100 simulated records to eac
 
 ## Installation Information
 
+(To be filled later)
+
 <div style="text-align: center;">
   <a href="#ready-made-social-media-database-template-free">
     Click here to go back up

@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    Return to Home Page
+    << Return to Home Page <<
   </a>
 </div>
 
@@ -72,7 +72,7 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md">
-    Continue Reading
+    >> Continue Reading >>
   </a>
 </div>
 
@@ -86,6 +86,6 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
 
 <div style="text-align: center;">
   <a href="#social-media-database-template-free">
-    Scroll Up
+    ^ Scroll Up ^
   </a>
 </div>

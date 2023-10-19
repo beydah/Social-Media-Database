@@ -1,10 +1,12 @@
-# Ready-Made Social Media Database Template (Free)
+# Social Media Database Template (Free)
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    Click here to go back to the homepage
+    << Return to Home Page <<
   </a>
 </div>
+
+</br>
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -18,7 +20,7 @@ _"Your Foundation in Social Data Management!"_
 
 BasicMediaDB offers the essential database framework with default settings and 25 tables, perfect for developers who know what they need but don't require simulated student data.
 
-[Click For Download To BasicMedia_DB](https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/BasicMedia_DB.bak)
+[v Click For Download To BasicMedia_DB v](https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/BasicMedia_DB.bak)
 
 <div>
     <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/BasicMedia_DB.bak">
@@ -32,7 +34,7 @@ _"Elevate Your Data Experience!"_
 
 AdvancedMediaDB not only provides the default database and 25 tables but also includes 25 commonly used stored procedures. Ideal for developers who want more functionalities without the hassle, suitable for various projects.
 
-[Click For Download To AdvancedMedia_DB]()
+[v Click For Download To AdvancedMedia_DB v]()
 
 ### Educational Social Media Database:
 
@@ -40,7 +42,7 @@ _"Empowering Student Learning, One Query at a Time!"_
 
 EduMediaDB enriches the current database by adding 100 simulated records to each table, making it perfect for SQL and backend students interested in practicing social media-related projects. Dive into the world of social media data with confidence and learn through hands-on experience!
 
-[Click For Download To EduMedia_DB]()
+[v Click For Download To EduMedia_DB v]()
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -50,8 +52,24 @@ EduMediaDB enriches the current database by adding 100 simulated records to each
 
 (To be filled later)
 
+</br>
+
 <div style="text-align: center;">
-  <a href="#ready-made-social-media-database-template-free">
-    Click here to go back up
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENCE">
+    >> Continue Reading >>
+  </a>
+</div>
+
+</br>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
+</br>
+
+<div style="text-align: center;">
+  <a href="#social-media-database-template-free">
+    ^ Scroll Up ^
   </a>
 </div>

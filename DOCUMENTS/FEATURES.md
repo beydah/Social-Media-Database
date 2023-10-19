@@ -1,15 +1,25 @@
-# Ready-Made Social Media Database Template (Free)
+# Social Media Database Template (Free)
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    Click here to go back to the homepage
+    << Return to Home Page <<
   </a>
+</div>
+
+</br>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
 
 ## Database Features
 
 - MDF File: File Type ROWS Data, Size 10MB, Autogrowth 50MB, Max Size Unlimited.
 - LDF File: File Type LOG, Size 10MB, Autogrowth 50MB, Max Size Unlimited.
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
 ## Table Features
 
@@ -51,12 +61,32 @@
 
 - **dbo.AD:** Represents the table containing advertisement data. To be filled by the customer.
 
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
 ## Procedure Features
 
 (To be filled later)
 
+</br>
+
 <div style="text-align: center;">
-  <a href="#ready-made-social-media-database-template-free">
-    Click here to go back up
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md">
+    >> Continue Reading >>
+  </a>
+</div>
+
+</br>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
+</br>
+
+<div style="text-align: center;">
+  <a href="#social-media-database-template-free">
+    ^ Scroll Up ^
   </a>
 </div>

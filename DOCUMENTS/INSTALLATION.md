@@ -55,7 +55,7 @@ EduMediaDB enriches the current database by adding 100 simulated records to each
 </br>
 
 <div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENCE">
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE">
     >> Continue Reading >>
   </a>
 </div>

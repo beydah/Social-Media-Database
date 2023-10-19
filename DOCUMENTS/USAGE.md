@@ -2,8 +2,14 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    Click here to go back to the homepage
+    Return to Home Page
   </a>
+</div>
+
+</br>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
 
 ## Usage Information
@@ -11,6 +17,10 @@
 You can take inspiration from this database project, create your own databases, or use this database for educational purposes. The project is free to use. However, for more usage information, we recommend checking the [License](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE) section.
 
 By reviewing the license information, you can learn more about how to use this database and its limitations.
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
 
 ## Open Source Information
 
@@ -58,8 +68,24 @@ git push origin main-branch
 
 After your "Pull Request" is reviewed, the changes will be merged into the main project.
 
+</br>
+
+<div style="text-align: center;">
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md">
+    Continue Reading
+  </a>
+</div>
+
+</br>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
+</br>
+
 <div style="text-align: center;">
   <a href="#social-media-database-template-free">
-    Click here to go back up
+    Scroll Up
   </a>
 </div>

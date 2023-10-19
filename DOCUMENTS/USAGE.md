@@ -71,7 +71,7 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
 </br>
 
 <div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEAUTURES.md">
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md">
     >> Continue Reading >>
   </a>
 </div>

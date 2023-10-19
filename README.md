@@ -47,7 +47,7 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md">
-    >>Continue Reading>>
+    >> Continue Reading >>
   </a>
 </div>
 
@@ -61,6 +61,6 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 <div style="text-align: center;">
   <a href="#ready-made-social-media-database-template-free">
-    ^Scroll Up^
+    ^ Scroll UP ^
   </a>
 </div>

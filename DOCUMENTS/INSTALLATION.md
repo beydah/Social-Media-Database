@@ -6,6 +6,10 @@
   </a>
 </div>
 
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
 ## Download Information
 
 ### Basic Social Media Database:

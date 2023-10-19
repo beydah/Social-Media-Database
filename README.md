@@ -43,8 +43,10 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 - <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE" target="_blank">License</a>
 
+[Continue Reading Document](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#usage-information)
+
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
 
-[Click For Continue Reading Document](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#usage-information)
+[Go Back Top](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#usage-information)

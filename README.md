@@ -28,7 +28,7 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 ## Links of Contents
 
-- [Author Information](#developer-information)
+- [Developer Information](#developer-information)
 - [Project Information](#project-information)
 
 - [Usage Information](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md#usage-information)

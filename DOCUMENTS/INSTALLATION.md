@@ -34,7 +34,13 @@ _"Elevate Your Data Experience!"_
 
 AdvancedMediaDB not only provides the default database and 25 tables but also includes 25 commonly used stored procedures. Ideal for developers who want more functionalities without the hassle, suitable for various projects.
 
-[v Click For Download To AdvancedMedia_DB v]()
+[v Click For Download To AdvancedMedia_DB v](https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/AdvancedMedia_DB.bak)
+
+<div>
+    <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/AdvancedMedia_DB.bak">
+        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
+    </a>
+</div>
 
 ### Educational Social Media Database:
 

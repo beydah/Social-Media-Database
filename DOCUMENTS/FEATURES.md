@@ -82,6 +82,7 @@ Below are the names of the planned procedures and their associated tables.
 None of them were made except the first one.
 
 Example* = Mandatory fields are indicated with an asterisk.
+
 Example! = Tables that have not been created or are not necessary are marked with an exclamation mark.
 
  1.  CREATE_USER		- Customer* + Settings* + User_Logs* + Algorithm* + Analytics*

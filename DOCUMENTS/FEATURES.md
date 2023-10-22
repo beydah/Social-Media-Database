@@ -67,7 +67,72 @@
 
 ## Procedure Features
 
-(To be filled later)
+### STORED PROCEDURE FUNCTIONALITY
+Stored procedures streamline the handling of frequently used records, 
+updates, deletions, and selections, making operations more automated and straightforward.
+
+- Enhanced security measures.
+- Ability to receive parameters from external sources.
+- Enables faster query execution.
+- Automation of tasks.
+- Reduction of complexity.
+
+### 25 PROCEDURES FOR SOCIAL MEDIA
+Below are the names of the planned procedures and their associated tables. 
+None of them were made except the first one.
+
+Example* = Mandatory fields are indicated with an asterisk.
+Example! = Tables that have not been created or are not necessary are marked with an exclamation mark.
+
+ 1.  CREATE_USER		- Customer* + Settings* + User_Logs* + Algorithm* + Analytics*
+
+ 2.  CREATE_POST		- Content* + (UPDATE Customer* + Analytics* + Hashtag + Hashtag_Category)
+ 
+ 3.  CREATE_COMMENT		- Comment* + (UPDATE Content* + Notification* + Analytics* + Algorithm)
+ 
+ 4.  CREATE_LIKE		- Recommendation_Content* + Liked* + (UPDATE Content* + Algorithm* + Analytics*) 
+ 
+ 5.  CREATE_FOLLOW		- Recommendation_User* + Request* + Follow* + Blocking* + (UPDATE Customer*)
+ 
+ 6.  CREATE_MESSAGE		- Message* + Notification* + (HIBRIT Conversation*) + (UPDATE Algorithm* + Analytics)
+  
+ 7.  DELETE_USER		- Customer* + Settings* + User_Logs* + Algoritma* + Analytics*
+ 
+ 8.  DELETE_POST		- Content* + (UPDATE Customer* + Analytics* + Hashtag + Hashtag_Category)
+ 
+ 9.  DELETE_COMMENT		- Comment* + (UPDATE Content* + Notification* + Analytics* + Algorithm)
+
+10.  DELETE_LIKE		- Recommendation_Content* + Liked* + (UPDATE Content* + Algorithm* + Analytics*) 
+
+11.  DELETE_FOLLOW		- Recommendation_User* + Request* + Follow* + Blocking* + (UPDATE Customer*)
+
+12.  DELETE_MESSAGE		- Message* + Notification* + (HIBRIT Conversation*) + (UPDATE Algorithm* + Analytics)
+ 
+13.  UPDATE_USER		- Customer* + Settings* + User_Logs* + Cookies + Analytics
+
+14.  UPDATE_POST		- Content* + Hashtag + Hashtag_Category + Analytics + (DELETE Comment)
+
+15.  UPDATE_COMMENT		- Comment* + Notification* + Hashtag + Hashtag_Category Kategori + Analytics
+
+16.  UPDATE_MESSAGE		- Message* + Notification* + Conversation* + Algorithm + Analytics
+
+17.  UPDATE_ANALYTICS	- Recommendation_User* + Recommendation_Content* + Recommendation_AD* + Algorithm* + Analytics*
+
+18.  UPDATE_REPORT		- Report* + Blocking* + Blocking_Reason + Report_Type + Analytics*
+ 
+19.  SELECT_PROFILE		- Customer* + Follow + Settings + Request + Blocking
+
+20.  SELECT_CONTENTS	- Customer* + Content* + Liked* + Comment + Tagged_Users!
+
+21.  SELECT_LIKES		- Customer* + Content* + Liked_Users!* + Liked_Content!* + Liked_Notification!
+
+22.  SELECT_COMMENTS	- Content* + Comment_Users!* + Comment_Content!* + Comment_Liked!* + Comment_Reply!
+
+23.  SELECT_MAIN		- Following!* + Following_Content!* + Recommendation_User* + Recommendation_Content*+ Recommendation_AD*
+
+24.  SELECT_SEARCH		- Following_Users!* + Customer* + User_Common_Follower!* + Recommendation_Hashtag!* + Hashtag*
+
+25.  SELECT_DISCOVER	- Recommendation_Content* + Recommended_Hashtag_Content!* + Recommended_Following_User_Post!* + Recommendation_AD!* + AD
 
 </br>
 

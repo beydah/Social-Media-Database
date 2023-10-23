@@ -46,7 +46,7 @@ AdvancedMediaDB not only provides the default database and 25 tables but also in
 
 _"Empowering Student Learning, One Query at a Time!"_
 
-EduMediaDB enriches the current database by adding 100 simulated records to each table, making it perfect for SQL and backend students interested in practicing social media-related projects. Dive into the world of social media data with confidence and learn through hands-on experience!
+EduMediaDB enriches the current database by adding 500 simulated records to each table, making it perfect for SQL and backend students interested in practicing social media-related projects. Dive into the world of social media data with confidence and learn through hands-on experience!
 
 [v Click For Download To EduMedia_DB v]()
 

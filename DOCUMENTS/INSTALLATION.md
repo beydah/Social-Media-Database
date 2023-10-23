@@ -48,7 +48,13 @@ _"Empowering Student Learning, One Query at a Time!"_
 
 EduMediaDB enriches the current database by adding 500 simulated records to each table, making it perfect for SQL and backend students interested in practicing social media-related projects. Dive into the world of social media data with confidence and learn through hands-on experience!
 
-[v Click For Download To EduMedia_DB v]()
+[v Click For Download To EduMedia_DB v](https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/EduMedia_DB.bak)
+
+<div>
+    <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/EduMedia_DB.bak">
+        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
+    </a>
+</div>
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">

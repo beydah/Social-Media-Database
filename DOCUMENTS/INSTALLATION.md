@@ -62,7 +62,43 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 ## Installation Information
 
-(To be filled later)
+1. Choose the version you want to download.
+2. Click on the download link/button below the desired version:
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_One_Image.png" alt="Step Two Image">
+</div>
+
+3. Open the downloaded folder and move the file to the folder you prefer:
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Two_Image.png" alt="Step Two Image">
+</div>
+
+4. Open SQL Server Management System and connect.
+5. Right-click on the "Databases" folder and select "Restore Database...":
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Three_Image.png" alt="Step Two Image">
+</div>
+
+6. Click on the "Device" option, then select "..." and find the downloaded file from the opened page, choose it, and click OK.
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Four_Image.png" alt="Step Two Image">
+</div>
+
+7. After completing the necessary steps, the page will look like this:
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Five_Image.png" alt="Step Two Image">
+</div>
+
+8. After completion, refresh the "Databases" folder and check if the added database is there.
+
+9. If the database appears correctly, inspect its content, make any customizations you need, and start using it.
+
+10. Congratulations! Your social media database is now ready!
 
 </br>
 

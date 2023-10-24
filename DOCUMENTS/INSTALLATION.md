@@ -65,34 +65,44 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 1. Choose the version you want to download.
 2. Click on the download link/button below the desired version:
 
+<a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
         <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_One_Image.png" alt="Step Two Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
+</a>
 
 3. Open the downloaded folder and move the file to the folder you prefer:
 
+<a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Two_Image.png" alt="Step Two Image">
 </div>
+</a>
 
 4. Open SQL Server Management System and connect.
 5. Right-click on the "Databases" folder and select "Restore Database...":
 
+<a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Three_Image.png" alt="Step Two Image">
 </div>
+</a>
 
 6. Click on the "Device" option, then select "..." and find the downloaded file from the opened page, choose it, and click OK.
 
+<a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Four_Image.png" alt="Step Two Image">
 </div>
+</a>
 
 7. After completing the necessary steps, the page will look like this:
 
+<a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Five_Image.png" alt="Step Two Image">
 </div>
+</a>
 
 8. After completion, refresh the "Databases" folder and check if the added database is there.
 

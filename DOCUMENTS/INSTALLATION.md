@@ -65,32 +65,32 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 1. Choose the version you want to download.
 2. Click on the download link/button below the desired version:
 
-<div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_One_Image.png" alt="Step Two Image">
+<div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_One_Image.png" alt="Step Two Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
 3. Open the downloaded folder and move the file to the folder you prefer:
 
-<div style="text-align:center;">
+<div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Two_Image.png" alt="Step Two Image">
 </div>
 
 4. Open SQL Server Management System and connect.
 5. Right-click on the "Databases" folder and select "Restore Database...":
 
-<div style="text-align:center;">
+<div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Three_Image.png" alt="Step Two Image">
 </div>
 
 6. Click on the "Device" option, then select "..." and find the downloaded file from the opened page, choose it, and click OK.
 
-<div style="text-align:center;">
+<div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Four_Image.png" alt="Step Two Image">
 </div>
 
 7. After completing the necessary steps, the page will look like this:
 
-<div style="text-align:center;">
+<div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
     <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Five_Image.png" alt="Step Two Image">
 </div>
 

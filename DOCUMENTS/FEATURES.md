@@ -97,7 +97,7 @@ Example! = Tables that have not been created or are not necessary are marked wit
  
  6.  CREATE_MESSAGE		- Message* + Notification* + (HIBRIT Conversation*) + (UPDATE Algorithm* + Analytics)
   
- 7.  DELETE_USER		- Customer* + Settings* + User_Logs* + Algoritma* + Analytics*
+ 7.  DELETE_USER		- Customer* + Settings* + User_Logs* + Algorithm* + Analytics*
  
  8.  DELETE_POST		- Content* + (UPDATE Customer* + Analytics* + Hashtag + Hashtag_Category)
  

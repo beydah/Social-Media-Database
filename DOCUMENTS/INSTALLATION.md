@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/beydah/Social-Media-Database-Template">
-    << Return to Home Page <<
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_off.png" style="width: 10%;"  alt="<< Return to Home Page <<">
   </a>
 </div>
 
@@ -24,7 +24,7 @@ BasicMediaDB offers the essential database framework with default settings and 2
 
 <div>
     <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/BasicMedia_DB.bak">
-        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" style="width: 20%;" alt="Download Button">
     </a>
 </div>
 
@@ -38,7 +38,7 @@ AdvancedMediaDB not only provides the default database and 25 tables but also in
 
 <div>
     <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/AdvancedMedia_DB.bak">
-        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" style="width: 20%;" alt="Download Button">
     </a>
 </div>
 
@@ -52,7 +52,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <div>
     <a href="https://github.com/beydah/Social-Media-Database-Template/raw/main/DATABASES/EduMedia_DB.bak">
-        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" style="width: 20%;" alt="Download Button">
     </a>
 </div>
 
@@ -67,7 +67,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_One_Image.png" alt="Step Two Image" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_1.png" alt="Step One Image">
 </div>
 </a>
 
@@ -75,7 +75,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Two_Image.png" alt="Step Two Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_2.png" alt="Step Two Image">
 </div>
 </a>
 
@@ -84,7 +84,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Three_Image.png" alt="Step Two Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_3.png" alt="Step Three Image">
 </div>
 </a>
 
@@ -92,7 +92,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Four_Image.png" alt="Step Two Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_4.png" alt="Step Four Image">
 </div>
 </a>
 
@@ -100,7 +100,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/main/images/Step_Five_Image.png" alt="Step Two Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_5.png" alt="Step Five Image">
 </div>
 </a>
 
@@ -112,14 +112,6 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 </br>
 
-<div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE">
-    >> Continue Reading >>
-  </a>
-</div>
-
-</br>
-
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
@@ -128,6 +120,14 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <div style="text-align: center;">
   <a href="#social-media-database-template-free">
-    ^ Scroll Up ^
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/scroll_off.png" style="width: 15%;"  alt="^ Scroll UP ^">
+  </a>
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/next_on.png" style="width: 15%;"  alt=">> Continue Reading >>">
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://github.com/beydah/Social-Media-Database-Template">  
   </a>
 </div>

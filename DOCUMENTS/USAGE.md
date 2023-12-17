@@ -1,8 +1,8 @@
 # Social Media Database Template (Free)
 
 <div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template">
-    << Return to Home Page <<
+  <a href="https://github.com/beydah/Social-Media-Database-Template">  
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_off.png" style="width: 10%;"  alt="<< Return to Home Page <<">
   </a>
 </div>
 
@@ -70,14 +70,6 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
 
 </br>
 
-<div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md">
-    >> Continue Reading >>
-  </a>
-</div>
-
-</br>
-
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
@@ -86,6 +78,9 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
 
 <div style="text-align: center;">
   <a href="#social-media-database-template-free">
-    ^ Scroll Up ^
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/scroll_off.png" style="width: 15%;"  alt="^ Scroll UP ^">
+  </a>
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/next_on.png" style="width: 15%;"  alt=">> Continue Reading >>">
   </a>
 </div>

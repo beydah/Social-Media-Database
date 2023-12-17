@@ -45,14 +45,6 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 </br>
 
-<div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md">
-    >> Continue Reading >>
-  </a>
-</div>
-
-</br>
-
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
@@ -61,6 +53,9 @@ Additionally, there is a version of this project designed for students. Fake dat
 
 <div style="text-align: center;">
   <a href="#ready-made-social-media-database-template-free">
-    ^ Scroll UP ^
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/scroll_off.png" style="width: 15%;"  alt="^ Scroll UP ^">
+  </a>
+  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/USAGE.md">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/next_on.png" style="width: 15%;"  alt=">> Continue Reading >>">
   </a>
 </div>

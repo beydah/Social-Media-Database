@@ -67,7 +67,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_1.png" alt="Step One Image">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/image/socialMediaDB_downloadInfo_step_1.png" alt="Step One Image">
 </div>
 </a>
 
@@ -75,7 +75,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_2.png" alt="Step Two Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/socialMediaDB_downloadInfo_step_2.png" alt="Step Two Image">
 </div>
 </a>
 
@@ -84,7 +84,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_3.png" alt="Step Three Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/socialMediaDB_downloadInfo_step_3.png" alt="Step Three Image">
 </div>
 </a>
 
@@ -92,7 +92,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_4.png" alt="Step Four Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/socialMediaDB_downloadInfo_step_4.png" alt="Step Four Image">
 </div>
 </a>
 
@@ -100,7 +100,7 @@ EduMediaDB enriches the current database by adding 500 simulated records to each
 
 <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md#installation-information">
 <div style="text-align: center; width: 75%; border: 5px solid white; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/social_media_db_download_info_step_5.png" alt="Step Five Image">
+    <img src="https://raw.githubusercontent.com/beydah/asset/main/image/socialMediaDB_downloadInfo_step_5.png" alt="Step Five Image">
 </div>
 </a>
 

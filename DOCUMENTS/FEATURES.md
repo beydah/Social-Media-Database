@@ -1,7 +1,7 @@
 # Social Media Database Template (Free)
 
 <div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template">
+  <a href="https://github.com/beydah/Social-Media-Database">
    <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_off.png" style="width: 10%;"  alt="<< Return to Home Page <<">
   </a>
 </div>
@@ -147,7 +147,7 @@ Example! = Tables that have not been created or are not necessary are marked wit
   <a href="#social-media-database-template-free">
     <img src="https://raw.githubusercontent.com/beydah/asset/main/button/scroll_off.png" style="width: 15%;"  alt="^ Scroll UP ^">
   </a>
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/INSTALLATION.md">
+  <a href="https://github.com/beydah/Social-Media-Database/blob/main/DOCUMENTS/INSTALLATION.md">
     <img src="https://raw.githubusercontent.com/beydah/asset/main/button/next_on.png" style="width: 15%;"  alt=">> Continue Reading >>">
   </a>
 </div>

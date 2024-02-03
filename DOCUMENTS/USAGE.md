@@ -1,7 +1,7 @@
 # Social Media Database Template (Free)
 
 <div style="text-align: center;">
-  <a href="https://github.com/beydah/Social-Media-Database-Template">  
+  <a href="https://github.com/beydah/Social-Media-Database">  
     <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_off.png" style="width: 10%;"  alt="<< Return to Home Page <<">
   </a>
 </div>
@@ -14,7 +14,7 @@
 
 ## Usage Information
 
-You can take inspiration from this database project, create your own databases, or use this database for educational purposes. The project is free to use. However, for more usage information, we recommend checking the [License](https://github.com/beydah/Social-Media-Database-Template/blob/main/LICENSE) section.
+You can take inspiration from this database project, create your own databases, or use this database for educational purposes. The project is free to use. However, for more usage information, we recommend checking the [License](https://github.com/beydah/Social-Media-Database/blob/main/LICENSE) section.
 
 By reviewing the license information, you can learn more about how to use this database and its limitations.
 
@@ -28,11 +28,11 @@ There are several areas in this database project that are open for development.
 
 ### Tasks
 
-- Operations like database backup and self-updating are not included, and this is a project open for improvement in this regard. You can learn more about the database by checking the [Database Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#database-features) section.
+- Operations like database backup and self-updating are not included, and this is a project open for improvement in this regard. You can learn more about the database by checking the [Database Features](https://github.com/beydah/Social-Media-Database/blob/main/DOCUMENTS/FEATURES.md#database-features) section.
 
-- Existing table data types, etc., need optimization and additional fields need to be added to existing tables. Besides existing tables, more tables are needed. You can learn more about the tables by checking the [Table Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#table-features) section.
+- Existing table data types, etc., need optimization and additional fields need to be added to existing tables. Besides existing tables, more tables are needed. You can learn more about the tables by checking the [Table Features](https://github.com/beydah/Social-Media-Database/blob/main/DOCUMENTS/FEATURES.md#table-features) section.
 
-- Improvements and enhancements can be made to existing Stored Procedures. New procedures can be added. For detailed information, check the [Procedure Features](https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md#procedure-features) section.
+- Improvements and enhancements can be made to existing Stored Procedures. New procedures can be added. For detailed information, check the [Procedure Features](https://github.com/beydah/Social-Media-Database/blob/main/DOCUMENTS/FEATURES.md#procedure-features) section.
 
 - Functions and triggers can be included in the database for tasks performed regularly.
 
@@ -80,7 +80,7 @@ After your "Pull Request" is reviewed, the changes will be merged into the main 
   <a href="#social-media-database-template-free">
     <img src="https://raw.githubusercontent.com/beydah/asset/main/button/scroll_off.png" style="width: 15%;"  alt="^ Scroll UP ^">
   </a>
-  <a href="https://github.com/beydah/Social-Media-Database-Template/blob/main/DOCUMENTS/FEATURES.md">
+  <a href="https://github.com/beydah/Social-Media-Database/blob/main/DOCUMENTS/FEATURES.md">
     <img src="https://raw.githubusercontent.com/beydah/asset/main/button/next_on.png" style="width: 15%;"  alt=">> Continue Reading >>">
   </a>
 </div>
